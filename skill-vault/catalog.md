@@ -1,6 +1,6 @@
 # Skill Vault Catalog
 
-> Total skills: 6 | Safe: 1 | Caution: 5 | Dangerous: 0
+> Total skills: 7 | Safe: 2 | Caution: 5 | Dangerous: 0
 
 | Skill | Category | Safety | Description | Source | Added |
 |-------|----------|--------|-------------|--------|-------|
@@ -10,6 +10,7 @@
 | [humanizalo](categories/productivity/humanizalo.md) | productivity | [SAFE] | Detects and eliminates 40 AI writing patterns; rewrites text with authentic human voice | github | 2026-04-04 |
 | [claude-banana](categories/productivity/claude-banana.md) | productivity | [CAUTION] | Converts rough ideas into optimized image generation prompts for DALL-E, Midjourney and Gemini | github | 2026-04-04 |
 | [editor-pro-max](categories/automation/editor-pro-max.md) | automation | [CAUTION] | AI video editor using Remotion + Claude Code — natural language to MP4 | github | 2026-04-04 |
+| [the-architect](categories/organization/the-architect.md) | organization | [SAFE] | Meta-agent that generates 16-section software blueprints for autonomous Claude Code builds | github | 2026-04-04 |
 
 ## By Category
 
@@ -26,3 +27,6 @@
 
 ### web-development (1)
 - [claude-webkit](categories/web-development/claude-webkit.md) [CAUTION] — No-code landing page generator with Vercel deploy
+
+### organization (1)
+- [the-architect](categories/organization/the-architect.md) [SAFE] — 16-section software blueprint generator for autonomous builds
